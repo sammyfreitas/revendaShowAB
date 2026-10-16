@@ -4,7 +4,7 @@ const PRODUCT_DATA = {
   "products": [
     {
       "id": "rosa-angel",
-      "name": "Botão de Rosa Angel Chocolate ao Leite 13,3g",
+      "name": "Botão de Rosa Angel Chocolate ao Leite 13,3g Pétalas Vermelhas",
       "sku": "1002333",
       "category": "Presentes",
       "old": 24.0,
@@ -12,6 +12,17 @@ const PRODUCT_DATA = {
       "stock": 3,
       "image": "assets/rosa-angel.png",
       "description": "Rosa com bombom de chocolate ao leite e recheio sabor brigadeiro."
+    },
+    {
+      "id": "rosa-angel",
+      "name": "Botão de Rosa Angel Chocolate ao Leite 13,3g Pétalas Rosa",
+      "sku": "1002333",
+      "category": "Presentes",
+      "old": 24.0,
+      "price": 22.0,
+      "stock": 3,
+      "image": "assets/rosa-angel.png",
+      "description": "Rosa com bombom de chocolate ao leite e recheio sabor cereja ao licor."
     },
     {
       "id": "lacreeme-leite",
